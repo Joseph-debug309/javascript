@@ -28,6 +28,3 @@ console.log("The county is", county)
 let username = null
 console.log("WHAT IS THE USERNAME", username)
 
-// assignment
-// Object 
-//Array data types and show how to access items of the object and array
