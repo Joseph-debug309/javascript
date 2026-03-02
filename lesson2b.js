@@ -14,6 +14,7 @@ console.log(num1 < num2)
 // the triple equal sign is used to check for both value and data type
 console.log(num1 === num2) //false
 console.log(num1 === 5) //true
+console.log("5" === 5) 
 
 // Logical operators
 //logical operators are used to combine two or more conditions and return a boolean value
